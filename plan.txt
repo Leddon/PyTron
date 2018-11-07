@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Create Collision Detection
 All sprites.
 PowerUps
+=======
+GP:
+Send and recive network pakets using a loop. 
+Probably using a dictornary with player and enemy cords and stats
+
+>>>>>>> 56043c147b5cefd45402a94bc6f35e990b268a45

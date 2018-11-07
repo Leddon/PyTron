@@ -1,1 +1,1 @@
-print("This game will be really fun")
+print("2nd example")

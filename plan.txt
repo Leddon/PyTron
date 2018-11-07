@@ -1,1 +1,4 @@
-1. 
+GP:
+Send and recive network pakets using a loop. 
+Probably using a dictornary with player and enemy cords and stats
+

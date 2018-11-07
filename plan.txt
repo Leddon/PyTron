@@ -1,1 +1,4 @@
-1. 
+1. # Nico:
+# controls
+# background
+# all graphics
